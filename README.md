@@ -5,12 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data analytics
 - 🌱 I’m currently learning Python
 
-<div>
-  <a href="https://github.com/aabrahao2">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=aabrahao2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabrahao2&layout=compact&langs_count=16&theme=dracula"/>  
-</div>
-
   ##
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
