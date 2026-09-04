@@ -2,7 +2,10 @@
 
 ### 📊 Data Analyst | Python | SQL | Power BI
 
-Sou estudante de Administração e tenho interesse em **Análise de Dados e Automação de Processos**.
+Sou estudante de Administração e tenho interesse em **Análise de Dados e Automação de Processos**. 
+Tenho interesse em utilizar tecnologia e dados para transformar informações em soluções que gerem eficiência, organização e melhores decisões.
+
+Atualmente, desenvolvo projetos utilizando Python, SQL, Power BI e Excel, explorando diferentes formas de automatizar tarefas, analisar dados e construir soluções orientadas a resultados..
 
 ## 🚀 Atualmente
 
