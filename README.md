@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data analytics
 - 🌱 I’m currently learning Python
 
-##
+## 🛠️ Tecnologias e Ferramentas
 
 <img 
     align="left" 
