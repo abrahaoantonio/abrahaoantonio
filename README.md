@@ -1,11 +1,22 @@
 ## Hi there 👋, I'm Antonio Abrahão
 
-Here are some ideas to get you started:
+### 📊 Data Analyst | Python | SQL | Power BI
 
-- 🔭 I’m currently working on Data analytics
-- 🌱 I’m currently learning Python
+Sou estudante de Administração e tenho interesse em **Análise de Dados e Automação de Processos**.
+
+## 🚀 Atualmente
+
+- 📊 Trabalhando com **Análise de Dados e automação**
+- 🌱 Aprimorando meus conhecimentos em **Python**
+- 🗄️ Estudando **SQL e bancos de dados**
+- 📈 Desenvolvendo projetos com **Python**
+- ⚙️ Criando automações para otimizar processos
+
+Transformando dados em insights e processos em soluções automatizadas.
 
 ## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
 
 <img 
     align="left" 
@@ -26,6 +37,20 @@ Here are some ideas to get you started:
 
 <br/>
 
+
+### Dados & BI
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+  ### Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
   
   ##
  
@@ -36,3 +61,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/antonio-pedro-pestana-abrah%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abrahaoantonio&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahaoantonio&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
