@@ -61,16 +61,3 @@ Transformando dados em insights e processos em soluções automatizadas.
   <a href="https://www.linkedin.com/in/antonio-pedro-pestana-abrah%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abrahaoantonio&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahaoantonio&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
